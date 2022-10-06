@@ -1,5 +1,8 @@
 # stroke-prediction-ML-project
 
+# Data source
+Kaggle
+
 Please note: Kindly find the link to the google doc for the neccesary images for each of the steps discussed (https://docs.google.com/document/d/1dv0erZmwfsp_nS4jl-bVN_5v_pbfoGKezaL7AjpnCRA/edit?usp=sharing)
 
 This project involves predicting whether a patient will have a heart stroke or not based on his/her comorbidities, work, and lifestyle.
